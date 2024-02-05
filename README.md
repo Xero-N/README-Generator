@@ -13,7 +13,7 @@ npm --version
 ## Installation
 Follow these steps to get the README Generator running:
 
-git clone [SSH to be added]
+git clone git@github.com:Xero-N/README-Generator.git
 cd README-Generator
 npm install
 
@@ -37,4 +37,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 Kha Nguyen
 Project Link: https://github.com/Xero-N/README-Generator
-Deployed Link: 
+Deployed Link: https://xero-n.github.io/README-Generator/
+Link to walkthrough video: https://youtu.be/ylsVNAecVVQ
